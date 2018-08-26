@@ -7,7 +7,7 @@ https://learn.adafruit.com/mini-thermal-receipt-printer
 
 Before loading the example code, or even opening the Arduino software,
 place the Adafruit_Thermal folder in your Arduino library.
-
+test
 ////ARDUINO LIBRARY LOCATION////
 On your Mac:: In (home directory)/Documents/Arduino/Libraries
 On your PC:: My Documents\Arduino\libraries
